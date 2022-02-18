@@ -1,0 +1,6 @@
+*** Error 18 "main.c" Line 1(9,17): File can not be opened
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\main.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\main.h"
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Projeto_PICC\main.h"
+*** Error 128 "main.c" Line 11(9,15): A #DEVICE required before this line
+*** Error 12 "main.c" Line 13(19,24): Undefined identifier   FALSE
