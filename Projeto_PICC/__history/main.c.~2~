@@ -1,8 +1,4 @@
 #include <main.h>
-#include "fuses.h"
-#include "adc.h"
-#include "portB.h"
-#include <stdio.h>
 
 #Define LN1 pin_A0 // s_Luz
 

@@ -2,5 +2,16 @@
     Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\main.h"
     Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\main.h"
     Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Projeto_PICC\main.h"
-*** Error 128 "main.c" Line 11(9,15): A #DEVICE required before this line
-*** Error 12 "main.c" Line 13(19,24): Undefined identifier   FALSE
+*** Error 18 "main.c" Line 2(10,19): File can not be opened
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Projeto_PICC\fuses.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\fuses.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\fuses.h"
+*** Error 18 "main.c" Line 3(10,17): File can not be opened
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Projeto_PICC\adc.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\adc.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\adc.h"
+*** Error 18 "main.c" Line 4(10,19): File can not be opened
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Projeto_PICC\portB.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\portB.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\portB.h"
+*** Error 128 "C:\Users\wande\Downloads\Programas\PICC\Drivers\string.h" Line 26(2,7): A #DEVICE required before this line
