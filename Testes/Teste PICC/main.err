@@ -1,24 +1,36 @@
 *** Error 18 "main.c" Line 2(10,19): File can not be opened
-    Not in project "E:\fuses.h"
-    Not in "E:\PICC\Devices\fuses.h"
-    Not in "E:\PICC\Drivers\fuses.h"
-    Not in "E:\fuses.h"
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\fuses.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\fuses.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\fuses.h"
+    Not in "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\fuses.h"
 *** Error 18 "main.c" Line 3(10,20): File can not be opened
-    Not in project "E:\serial.h"
-    Not in "E:\PICC\Devices\serial.h"
-    Not in "E:\PICC\Drivers\serial.h"
-    Not in "E:\serial.h"
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\serial.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\serial.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\serial.h"
+    Not in "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\serial.h"
 *** Error 18 "main.c" Line 4(10,17): File can not be opened
-    Not in project "E:\adc.h"
-    Not in "E:\PICC\Devices\adc.h"
-    Not in "E:\PICC\Drivers\adc.h"
-    Not in "E:\adc.h"
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\adc.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\adc.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\adc.h"
+    Not in "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\adc.h"
 *** Error 18 "main.c" Line 5(10,19): File can not be opened
-    Not in project "E:\portB.h"
-    Not in "E:\PICC\Devices\portB.h"
-    Not in "E:\PICC\Drivers\portB.h"
-    Not in "E:\portB.h"
+    Not in project "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\portB.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Devices\portB.h"
+    Not in "C:\Users\wande\Downloads\Programas\PICC\Drivers\portB.h"
+    Not in "C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste PICC\portB.h"
 *** Error 12 "main.c" Line 10(15,16): Undefined identifier  -- starserial
 *** Error 12 "main.c" Line 11(13,14): Undefined identifier  -- startADC
 *** Error 12 "main.c" Line 12(15,16): Undefined identifier  -- startPORTB
 *** Error 12 "main.c" Line 14(23,24): Undefined identifier  -- scanRXstring
+*** Error 12 "main.c" Line 17(31,32): Undefined identifier  -- LePinoPortB
+*** Error 12 "main.c" Line 18(33,34): Undefined identifier  -- LePinoPortB
+*** Error 12 "main.c" Line 19(33,34): Undefined identifier  -- LePinoPortB
+*** Error 12 "main.c" Line 20(33,34): Undefined identifier  -- LePinoPortB
+*** Error 12 "main.c" Line 21(33,34): Undefined identifier  -- LePinoPortB
+*** Error 12 "main.c" Line 23(57,58): Undefined identifier  -- ADC_read
+*** Error 12 "main.c" Line 24(57,58): Undefined identifier  -- ADC_read
+*** Error 12 "main.c" Line 25(57,58): Undefined identifier  -- ADC_read
+*** Error 132 "main.c" Line 26(100,101): STDOUT not defined (may be missing #USE RS232)  ::
+*** Error 12 "main.c" Line 28(19,20): Undefined identifier  -- __delay_ms
+      18 Errors,  0 Warnings.
+Build Failed.
