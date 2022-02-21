@@ -1,0 +1,16 @@
+[PROJECT]
+Target=E:\main.hex
+Processor_Text=PIC16F876A
+CCSVerions=5.008
+Compiler=PCM
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[E:\main]
+Type=4
+[mru-list]
+1=main.c
+[Units]
+Count=1
+1=main (main)

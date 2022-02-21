@@ -4,7 +4,7 @@
 #include "portB.h"
 #include <stdio.h>
 
-#Define LN1 pin_A0  // s_Luz
+#Define LN1 pin_A0 // s_Luz
 
 #use DELAY (clock=4MHZ)
 #Define SN2 pin_A1

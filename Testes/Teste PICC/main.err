@@ -1,0 +1,24 @@
+*** Error 18 "main.c" Line 2(10,19): File can not be opened
+    Not in project "E:\fuses.h"
+    Not in "E:\PICC\Devices\fuses.h"
+    Not in "E:\PICC\Drivers\fuses.h"
+    Not in "E:\fuses.h"
+*** Error 18 "main.c" Line 3(10,20): File can not be opened
+    Not in project "E:\serial.h"
+    Not in "E:\PICC\Devices\serial.h"
+    Not in "E:\PICC\Drivers\serial.h"
+    Not in "E:\serial.h"
+*** Error 18 "main.c" Line 4(10,17): File can not be opened
+    Not in project "E:\adc.h"
+    Not in "E:\PICC\Devices\adc.h"
+    Not in "E:\PICC\Drivers\adc.h"
+    Not in "E:\adc.h"
+*** Error 18 "main.c" Line 5(10,19): File can not be opened
+    Not in project "E:\portB.h"
+    Not in "E:\PICC\Devices\portB.h"
+    Not in "E:\PICC\Drivers\portB.h"
+    Not in "E:\portB.h"
+*** Error 12 "main.c" Line 10(15,16): Undefined identifier  -- starserial
+*** Error 12 "main.c" Line 11(13,14): Undefined identifier  -- startADC
+*** Error 12 "main.c" Line 12(15,16): Undefined identifier  -- startPORTB
+*** Error 12 "main.c" Line 14(23,24): Undefined identifier  -- scanRXstring
