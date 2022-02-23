@@ -1,4 +1,4 @@
-CCS PCM C Compiler, Version 5.007, 61971               21-fev-22 18:58
+CCS PCM C Compiler, Version 5.007, 61971               22-fev-22 18:42
 
                Filename:   C:\Users\wande\Dropbox\My PC (DESKTOP-7SU2R2U)\Documents\GitHub\Projeto-Luz-Automatica-com-Interface-Grafica\Testes\Teste2\PICC_teste2\projetoTeste2.lst
 
@@ -23,8 +23,8 @@ CCS PCM C Compiler, Version 5.007, 61971               21-fev-22 18:58
 .................... #USE DELAY (CLOCK = 4000000) 
 .................... #FUSES XT, PROTECT, NOWDT, NOBROWNOUT, PUT, NOLVP 
 .................... #DEFINE SW PORTA, 1 
-.................... #DEFINE LED PORTA, 0 
-.................... #BYTE PORTA = 5 
+.................... #DEFINE LED PORTB, 0 
+.................... #BYTE PORTA= 5 
 .................... #BYTE PORTB= 6 
 ....................  
 .................... MAIN()  
@@ -66,14 +66,14 @@ CCS PCM C Compiler, Version 5.007, 61971               21-fev-22 18:58
 0020:  GOTO   023
 ....................       { 
 ....................                 BIT_SET(LED); 
-0021:  BSF    05.0
+0021:  BSF    06.0
 ....................       } 
 0022:  GOTO   024
 ....................       ELSE 
 ....................        
 ....................       { 
 ....................          BIT_CLEAR(LED); 
-0023:  BCF    05.0
+0023:  BCF    06.0
 ....................       } 
 0024:  GOTO   01D
 ....................        

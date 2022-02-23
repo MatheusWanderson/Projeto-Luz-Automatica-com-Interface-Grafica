@@ -1,7 +1,8 @@
+D G "LED" 0 5 "PORTB, 0"
 D G "__PCM__" 0 31 ""5.007""
 D G "__DEVICE__" 0 31 "887"
-D G "__DATE__" 0 31 ""21-fev-22""
-D G "__TIME__" 0 31 ""18:58:53"" "Standard Header file for the PIC16F887 device ////////////////"
+D G "__DATE__" 0 31 ""22-fev-22""
+D G "__TIME__" 0 31 ""18:42:14"" "Standard Header file for the PIC16F887 device ////////////////"
 c L "set_tris_a" 1 5 15 "FUNCTION"
 v L "value" 1 30 "int8" `54 
 f B "set_tris_a" 1 30 "void(int8 value)" `53 
@@ -848,7 +849,7 @@ d G "INT_RB5" 1 753 "0x1200B08"
 d G "INT_RB6" 1 754 "0x1400B08"
 d G "INT_RB7" 1 755 "0x1800B08"
 D G "SW" 0 4 "PORTA, 1"
-D G "LED" 0 5 "PORTA, 0"
+D G "LED" 0 5 "PORTB, 0"
 F G "MAIN" 0 10 "int8()" `620 
 F B "reset_cpu" 0 0
 F B "abs" 1 0
