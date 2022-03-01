@@ -13,10 +13,10 @@ Stack size: 8
 
 Lines Stmts  %   Files
 ----- ----- ---  -----
-   30     9 100  projetoTeste2.c
+   26     9 100  projetoTeste2.c
   758     0   0  ..\..\..\..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16f887.h
 ----- -----
-  788     9 Total
+  784     9 Total
 
 Page ROM  %  RAM   Vol Diff  Functions:
 ---- --- --- ---   --- ----  ----------

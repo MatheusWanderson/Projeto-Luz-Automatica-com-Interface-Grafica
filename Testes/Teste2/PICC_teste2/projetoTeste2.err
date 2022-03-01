@@ -1,4 +1,4 @@
->>> Warning 208 "projetoTeste2.c" Line 9(1,5): Function not void and does not return a value  MAIN
+>>> Warning 208 "projetoTeste2.c" Line 8(1,5): Function not void and does not return a value  MAIN
       Memory usage:   ROM=0%      RAM=1% - 1%
       0 Errors,  1 Warnings.
 Build Successful.
