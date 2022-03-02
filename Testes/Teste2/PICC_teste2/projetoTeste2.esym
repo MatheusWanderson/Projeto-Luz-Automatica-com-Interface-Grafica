@@ -1,8 +1,7 @@
-D G "LED" 0 5 "PORTB, 0"
 D G "__PCM__" 0 27 ""5.007""
 D G "__DEVICE__" 0 27 "887"
 D G "__DATE__" 0 27 ""01-mar-22""
-D G "__TIME__" 0 27 ""09:06:05"" "Standard Header file for the PIC16F887 device ////////////////"
+D G "__TIME__" 0 27 ""09:43:51"" "Standard Header file for the PIC16F887 device ////////////////"
 c L "set_tris_a" 1 5 15 "FUNCTION"
 v L "value" 1 30 "int8" `54 
 f B "set_tris_a" 1 30 "void(int8 value)" `53 
