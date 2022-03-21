@@ -1,20 +1,16 @@
 [PROJECT]
-Target=projetoTeste2.hex
+Target=LuzAutomatica.hex
 Processor_Text=PIC16F887
 CCSVersion=5.007
 Compiler=PCM
 [Target Data]
-FileList=projetoTeste2.c
+FileList=LuzAutomatica.c
 [Directories]
 Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
-[projetoTeste2.c]
+[LuzAutomatica.c]
 Type=4
 [mru-list]
-1=projetoTeste2.c
-[Opened Files]
-1=projetoTeste2.hex
-2=projetoTeste2.c
-3=
+1=LuzAutomatica.c
 [Units]
 Count=1
-1=projetoTeste2 (main)
+1=LuzAutomatica (main)
